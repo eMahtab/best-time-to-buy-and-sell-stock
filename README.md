@@ -21,6 +21,8 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ```
 
+![Best time to buy and sell stock](best-time-to-buy-and-sell-stock.png?raw=true "Best time to buy and sell stock")
+
 # Implementation 1 : O(n^2)
 ```java
 class Solution {
