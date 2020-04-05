@@ -67,3 +67,4 @@ class Solution {
 
 # References :
 1. https://leetcode.com/articles/best-time-to-buy-and-sell-stock
+2. https://www.youtube.com/watch?v=mj7N8pLCJ6w
