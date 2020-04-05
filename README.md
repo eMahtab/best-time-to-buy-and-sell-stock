@@ -64,6 +64,8 @@ class Solution {
     }
 }
 ```
+# Tip :
+Make a dotted graph representation for better visualization, this helps in solving the problem.
 
 # References :
 1. https://leetcode.com/articles/best-time-to-buy-and-sell-stock
